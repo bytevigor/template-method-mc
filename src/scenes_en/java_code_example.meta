@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "timeEvents": [
+    {
+      "name": "s6_start",
+      "targetTime": 0
+    },
+    {
+      "name": "coffee_tea",
+      "targetTime": 2.3
+    },
+    {
+      "name": "c1_start",
+      "targetTime": 8.31882005202663
+    },
+    {
+      "name": "c2_start",
+      "targetTime": 30.73213723315176
+    },
+    {
+      "name": "c3_start",
+      "targetTime": 48.904388243187924
+    },
+    {
+      "name": "s6_end",
+      "targetTime": 85.00073716167053
+    }
+  ],
+  "seed": 3633735532
+}

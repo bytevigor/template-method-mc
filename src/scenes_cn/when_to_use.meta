@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "s7_start",
+      "targetTime": 0
+    },
+    {
+      "name": "summary",
+      "targetTime": 26.768708930321395
+    },
+    {
+      "name": "s7_end",
+      "targetTime": 47.88876410451296
+    }
+  ],
+  "seed": 1072885357
+}

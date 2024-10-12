@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "s8_start",
+      "targetTime": 1
+    },
+    {
+      "name": "s8_end",
+      "targetTime": 10.095159809489779
+    }
+  ],
+  "seed": 3750871997
+}

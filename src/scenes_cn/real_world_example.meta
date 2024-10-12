@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "s2_start",
+      "targetTime": 0.04708811609640287
+    },
+    {
+      "name": "chef",
+      "targetTime": 1.547088116096403
+    },
+    {
+      "name": "s2_end",
+      "targetTime": 26.990290574668695
+    }
+  ],
+  "seed": 3664155119
+}

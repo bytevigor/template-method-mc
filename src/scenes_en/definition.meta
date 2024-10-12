@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "timeEvents": [
+    {
+      "name": "s3_start",
+      "targetTime": 0
+    },
+    {
+      "name": "wiki",
+      "targetTime": 9.562432855619186
+    },
+    {
+      "name": "compare",
+      "targetTime": 23.05252574700146
+    },
+    {
+      "name": "comp1",
+      "targetTime": 33.835338741703474
+    },
+    {
+      "name": "comm11",
+      "targetTime": 49.876638755923274
+    },
+    {
+      "name": "comp2",
+      "targetTime": 63.375652191421146
+    },
+    {
+      "name": "s3_end",
+      "targetTime": 75.54515116661867
+    }
+  ],
+  "seed": 1498756934
+}
