@@ -1,6 +1,6 @@
 # 模版方法设计模式视频教程源码
 
-模版方法设计模式视频教程，中英文双语，使用[MotionCanvas](https://motioncanvas.io/)制作。
+模版方法设计模式视频教程，中英文双语，使用[MotionCanvas](https://motioncanvas.io/)制作。配套的[B 站视频讲解](https://www.bilibili.com/video/BV1W42hYUEM9/)。
 
 ## 运行
 
