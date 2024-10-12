@@ -13,7 +13,7 @@ npm start
 
 访问`http://localhost:9000`
 
-默认运行的是中文版，改成英文版只需修改`src\project.ts`，将**所有**导入的中文场景目录改为英文目录，例如：
+默认运行的是中文版，改成英文版只需修改`src\project.ts`，将**所有**导入的中文场景(包括声音 audio)目录改为英文目录，例如：
 
 ```ts
 import intro from './scenes_cn/intro?scene';
