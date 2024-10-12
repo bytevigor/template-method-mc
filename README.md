@@ -48,3 +48,7 @@ import intro from './scenes_en/intro?scene';
 - 入门门槛有点高，需要编程经验，适合程序员
 - 刚开始比可视化视频编辑工具耗时，熟练后相当
 - MotionCanvas 当前版本仅支持一个 audio，可以使用[Revideo](https://re.video/)支持每个场景一个 audio
+
+## 结论
+
+适合制作周期较长的`精品`类视频，参考 bytebytego。
